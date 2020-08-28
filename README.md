@@ -7,22 +7,6 @@ The repository includes the following files:
  4. CodeBook.md: A file explaining the variables of the input data and their units
 
 
-## Description of the data
-The data used for the analysis is from the "Human Activity Recognition Using Smartphones" dataset. 
-This database was built from the recordings of 30 volunteers (within an age of 19-48 years), each performing activities of daily living (ADL) while carrying a waist-mounted smartphone (Samsung Galaxy S II) with embedded inertial sensors (accelerometer and gyroscope).
-
-The ADL performed were of six types:
- 1. Walking  
- 2. Walking upstairs
- 3. Walking downstairs
- 4. Sitting
- 5. Standing
- 6. Laying
-
-The data captured involved a 3-axial linear acceleration and 3-axial angular velocity measured at a constant rate of 50Hz.
-The experiments were video-recorded to label the data manually.
-The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
-
 ## Analysis
 The analysis in the run_analysis.R script follows these steps.
  1. Merge the training and the test data sets.
