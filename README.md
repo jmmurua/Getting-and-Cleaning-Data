@@ -8,14 +8,14 @@
  4. CodeBook.md: A file explaining the experimental design, and the variables of the input data and their units
  
 ### Files required in the run_analysis.R script
- 6. features.txt: Contains all the names of the quantitative variables (561) common for the training and test sets
- 5. X_test.txt: The test set, containing measurments for the 561 variables specified in the features.txt file
- 5. X_train.txt: The training set, containing measurments for the 561 variables specified in the features.txt file
- 6. test_labels.txt: One column containing indexes (1-6) that represent the activity performed for a given subject for the test set
- 7. train_labels.txt: One column containing indexes (1-6) that represent the activity performed for a given subject for the training set
- 8. subject_test.txt: One column containing IDs that represent a specific subject performing a given activity for the test set
- 9. subject_train.txt: One column containing IDs that represent a specific subject performing a given activity for the train set
- 10. activity_labels.txt: Links the name of each activity with the indexes on the labels files
+ 1. features.txt: Contains all the names of the quantitative variables (561) common for the training and test sets
+ 2. X_test.txt: The test set, containing measurments for the 561 variables specified in the features.txt file
+ 3. X_train.txt: The training set, containing measurments for the 561 variables specified in the features.txt file
+ 4. test_labels.txt: One column containing indexes (1-6) that represent the activity performed for a given subject for the test set
+ 5. train_labels.txt: One column containing indexes (1-6) that represent the activity performed for a given subject for the training set
+ 6. subject_test.txt: One column containing IDs that represent a specific subject performing a given activity for the test set
+ 7. subject_train.txt: One column containing IDs that represent a specific subject performing a given activity for the train set
+ 8. activity_labels.txt: Links the name of each activity with the indexes on the labels files
 
 ## Analysis
 The analysis in the run_analysis.R script follows these steps.
