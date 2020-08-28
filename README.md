@@ -3,7 +3,7 @@
 ## The repository includes the following files:
 ### Main files
  1. README.md: Explains each file, justifies the tidy nature of the final data set, and...
- 2. finaldataset.txt: The file containing the final data set
+ 2. finaldata.txt: The file containing the final data set
  3. run_analysis.R: A script that contains the analysis necesary for obtaining the final data set.
  4. CodeBook.md: A file explaining the experimental design, and the variables of the input data and their units
  
